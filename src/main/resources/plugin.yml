@@ -1,0 +1,8 @@
+name: ServerSwitcher
+version: 1.0
+author: Rick van Leuven
+main: ServerSwitcher
+commands:
+  srv:
+    description: lobby
+    usage: /srv
